@@ -14,5 +14,7 @@ public class Test3 {
 		System.out.println("깃헙은 정말  정말 어렵다.");
 	}
 	
-	
+	public void print2() {
+		System.out.println("깃헙은 정말  정말 어렵다222.");
+	}
 }
